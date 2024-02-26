@@ -11,14 +11,20 @@
     "label": "编辑"
   },
   "github": {
-    "url": "https://github.com/jaywcjlove/reference"
+    "url": "https://github.com/ytanck/interview-reference"
   },
+  "home": {
+    "label": "首页",
+    "url": "https://whyta.cn"
+  },
+  "footer": "<br /><a href='https://beian.miit.gov.cn/'>鄂ICP备2021000562号</a>",
+  "license": "Copyright (c) <b>2023</b> YangTao",
   "giscus": {
     "src": "https://giscus.app/client.js",
-    "data-repo": "jaywcjlove/reference",
-    "data-repo-id": "R_kgDOID2-Mw",
+    "data-repo": "ytanck/interview-reference",
+    "data-repo-id": "R_kgDOLX8TGA",
     "data-category": "Q&A",
-    "data-category-id": "DIC_kwDOID2-M84CS5wo",
+    "data-category-id": "DIC_kwDOLX8TGM4CdhI2",
     "data-mapping": "pathname",
     "data-strict": "0",
     "data-reactions-enabled": "1",
