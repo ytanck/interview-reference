@@ -246,8 +246,8 @@ Quick Reference
 请参阅 [Quick Reference](./docs/quickreference.md) 了解如何开始。一如既往，感谢我们出色的[贡献者](https://github.com/ytanck/interview-reference/graphs/contributors)！
 <!--rehype:style=padding-bottom:1rem;-->
 
-<!--GAMFC--><a href="https://github.com/ytanck" title="ytanck">
-  <img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="42;" alt="ytanck"/>
+<!--GAMFC--><a href="https://github.com/jaywcjlove" title="小弟调调">
+  <img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="42;" alt="小弟调调"/>
 </a>
 <a href="https://github.com/fwqaaq" title="fwqaaq">
   <img src="https://avatars.githubusercontent.com/u/82551626?v=4" width="42;" alt="fwqaaq"/>
