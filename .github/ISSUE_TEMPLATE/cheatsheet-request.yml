@@ -2,7 +2,7 @@ name: 🤙 备忘清单请求
 description: 请求添加备忘清单和参考
 title: '【备忘清单】 请求: <Name>'
 labels: ['request']
-assignees: jaywcjlove
+assignees: ytanck
 body:
   - type: markdown
     attributes:
@@ -44,8 +44,8 @@ body:
       label: 参考资料 URL
       description: 提供更多参考资料有助于我们整理成备忘清单(速查表)
       placeholder: |
-        https://jaywcjlove.github.io/reference
-        https://jaywcjlove.github.io/reference
+        https://ytanck.github.io/interview-reference
+        https://ytanck.github.io/interview-reference
     validations:
       required: true
 
