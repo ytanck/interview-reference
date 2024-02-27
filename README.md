@@ -3,19 +3,19 @@ Quick Reference
 
 <!--rehype:ignore:start-->
 
-[![CI](https://github.com/ytanck/interview-reference/actions/workflows/ci.yml/badge.svg)](https://github.com/ytanck/interview-reference/actions/workflows/ci.yml)
+[![CI](https://github.com/ytanck/reference/actions/workflows/ci.yml/badge.svg)](https://github.com/ytanck/reference/actions/workflows/ci.yml)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
 [![Docker Pulls](https://img.shields.io/docker/pulls/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
 <!--rehype:ignore:end-->
 
 <!--rehype:ignore:start-->
-[![Quick Reference](https://user-images.githubusercontent.com/1680273/201931931-d8559417-0a15-46af-a009-ec1e56e5b778.png)](https://ytanck.github.io/interview-reference)
+[![Quick Reference](https://user-images.githubusercontent.com/1680273/201931931-d8559417-0a15-46af-a009-ec1e56e5b778.png)](https://ytanck.github.io/reference)
 
 本项目fork自[jaywcjlove](https://github.com/jaywcjlove/reference)，感谢大佬的贡献。
 <!--rehype:ignore:end-->
 
-为开发人员分享快速参考备忘清单【速查表】。这是英文版 [Reference](https://github.com/Randy8080/reference) 的中文版本，目的是为了方便自己的技术栈查阅，如果您提供一个清单，我将抽空搬运，立即撸起来 :)。如果您发现此处的备忘单不合适，您可以通过提交 [PR](https://github.com/ytanck/interview-reference/blob/main/CONTRIBUTING.md) 来修复它或提供更好的备忘清单，只针对【中文】用户。以下是开源天使提供的一些备忘清单和快速参考 :)。
+为开发人员分享快速参考备忘清单【速查表】。这是英文版 [Reference](https://github.com/Randy8080/reference) 的中文版本，目的是为了方便自己的技术栈查阅，如果您提供一个清单，我将抽空搬运，立即撸起来 :)。如果您发现此处的备忘单不合适，您可以通过提交 [PR](https://github.com/ytanck/reference/blob/main/CONTRIBUTING.md) 来修复它或提供更好的备忘清单，只针对【中文】用户。以下是开源天使提供的一些备忘清单和快速参考 :)。
 
 ## 正在更新中...
 
@@ -238,13 +238,13 @@ Quick Reference
 上面的列表没有看到你想要的？ 您是否正在寻找一些备忘清单或参考资料，或者您有一些片段备忘清单要分享，这是一个最好的机会！
 
 [`请求添加备忘单(速查表)`](https://github.com/jaywcjlove/reference/issues/new?title=【备忘清单】+请求%3A+&labels=request&template=cheatsheet-request.md&assignee=)<!--rehype:class=home-button&style=margin-top:2rem&target=__blank-->
-[`我有一张备忘单(速查表)`](https://github.com/ytanck/interview-reference/blob/main/CONTRIBUTING.md)<!--rehype:class=home-button text-grey&target=__blank-->
+[`我有一张备忘单(速查表)`](https://github.com/ytanck/reference/blob/main/CONTRIBUTING.md)<!--rehype:class=home-button text-grey&target=__blank-->
 <!--rehype:style=margin-top:3rem-->
 
 ## 感谢所有贡献者
 <!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
 
-请参阅 [Quick Reference](./docs/quickreference.md) 了解如何开始。一如既往，感谢我们出色的[贡献者](https://github.com/ytanck/interview-reference/graphs/contributors)！
+请参阅 [Quick Reference](./docs/quickreference.md) 了解如何开始。一如既往，感谢我们出色的[贡献者](https://github.com/ytanck/reference/graphs/contributors)！
 
 贡献者由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 根据提交次数的先后顺序自动生成！
 <!--rehype:style=padding-bottom:1rem;-->
@@ -262,14 +262,14 @@ Quick Reference
 ## 国内镜像网站
 <!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
 
-由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站](https://github.com/ytanck/interview-reference/discussions/206#discussion-4625735)
+由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站](https://github.com/jaywcjlove/reference/discussions/206#discussion-4625735)
 
 [wangchujiang.com](https://wangchujiang.com/)<!--rehype:target=_blank-->
 [whyta.cn](https://whyta.cn)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 
 <!--rehype:class=home-card home-links-->
 
-如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/ytanck/interview-reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
+如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/ytanck/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
 
 <!--rehype:ignore:start-->
 ## License
